@@ -12,9 +12,11 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
+    int i;
     @Test
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        
     }
 }
